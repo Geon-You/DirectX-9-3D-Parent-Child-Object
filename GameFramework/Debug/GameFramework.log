@@ -1,0 +1,25 @@
+﻿  BillBoard.cpp
+  Character.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Character.cpp(29,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Character.cpp(69,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Device.cpp
+  GameFramework.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\GameFramework.cpp(50,18): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\GameFramework.cpp(71,40): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ingame.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Ingame.cpp(69,37): warning C4838: 'LONG'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Ingame.cpp(69,58): warning C4838: 'LONG'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+  KeyAnimObj.cpp
+  MainGame.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\MainGame.cpp(9,20): warning C4316: 'Ingame': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Scene.cpp
+  Shape.cpp
+  Terrain.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Terrain.cpp(186,33): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Terrain.cpp(187,37): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Terrain.cpp(188,39): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Terrain.cpp(191,39): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Terrain.cpp(192,37): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Terrain.cpp(193,43): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  GameFramework.vcxproj -> D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework7 - 부모 자식 객체 회전\Debug\GameFramework.exe
